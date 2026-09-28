@@ -10,6 +10,7 @@ project to run against.
 locales/en/common.json   source locale
 locales/fr/common.json   target locale
 locales/es/common.json   target locale
+locales/de/common.json   target locale
 src/i18n.ts              i18next init (loads every catalog)
 src/index.ts             prints every key in every locale
 ```

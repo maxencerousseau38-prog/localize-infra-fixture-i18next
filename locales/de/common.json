@@ -1,0 +1,25 @@
+{
+  "app": {
+    "title": "Acme Dashboard",
+    "tagline": "Alles, was euer Team ausliefert, an einem Ort."
+  },
+  "nav": {
+    "home": "Start",
+    "projects": "Projekte",
+    "settings": "Einstellungen"
+  },
+  "auth": {
+    "signIn": "Anmelden",
+    "signOut": "Abmelden",
+    "greeting": "Willkommen zurück, {{name}}!"
+  },
+  "projects": {
+    "count_one": "{{count}} Projekt",
+    "count_other": "{{count}} Projekte",
+    "empty": "Noch keine Projekte."
+  },
+  "errors": {
+    "notFound": "Diese Seite konnte nicht gefunden werden.",
+    "network": "Netzwerk nicht verfügbar. Bitte erneut versuchen."
+  }
+}

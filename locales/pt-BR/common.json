@@ -1,0 +1,25 @@
+{
+  "app": {
+    "title": "Painel da Acme",
+    "tagline": "Tudo o que seu time entrega, em um só lugar."
+  },
+  "nav": {
+    "home": "Início",
+    "projects": "Projetos",
+    "settings": "Configurações"
+  },
+  "auth": {
+    "signIn": "Entrar",
+    "signOut": "Sair",
+    "greeting": "Bem-vindo de volta, {{name}}!"
+  },
+  "projects": {
+    "count_one": "{{count}} projeto",
+    "count_other": "{{count}} projetos",
+    "empty": "Nenhum projeto ainda."
+  },
+  "errors": {
+    "notFound": "Não encontramos essa página.",
+    "network": "Rede indisponível. Tente novamente."
+  }
+}

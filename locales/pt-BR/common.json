@@ -15,6 +15,7 @@
   },
   "projects": {
     "count_one": "{{count}} projeto",
+    "count_many": "{{count}} de projetos",
     "count_other": "{{count}} projetos",
     "empty": "Nenhum projeto ainda."
   },

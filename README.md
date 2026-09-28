@@ -19,9 +19,10 @@ src/index.ts               prints every key in every locale
 ```
 
 Covers nested keys, `{{name}}` interpolation and plurals. Non-plural keys are identical
-across every locale. Plural forms follow each locale's CLDR categories, so `ar` carries
-all six (`_zero` `_one` `_two` `_few` `_many` `_other`) while the others carry `_one` /
-`_other` — a missing form falls back to `en`, which is visible as an untranslated string.
+across every locale. Plural forms follow each locale's CLDR categories, and every locale
+carries all of its own: `_one` / `_other` for `en` and `de`, plus `_many` for `fr`, `es`
+and `pt-BR`, all six for `ar`, `_other` alone being the only one `ja` can resolve. No
+count falls back to `en`.
 
 ## Run
 

@@ -15,7 +15,7 @@ locales/ja/common.json     target locale
 locales/pt-BR/common.json  target locale (region-suffixed code)
 locales/ar/common.json     target locale (RTL, six plural forms)
 src/i18n.ts                i18next init (loads every catalog)
-src/index.ts               prints every key in every locale
+src/index.ts               prints every key in every locale, plurals across six counts
 ```
 
 Covers nested keys, `{{name}}` interpolation and plurals. Non-plural keys are identical

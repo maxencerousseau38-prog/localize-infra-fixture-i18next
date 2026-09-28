@@ -14,6 +14,7 @@
     "greeting": "おかえりなさい、{{name}}さん！"
   },
   "projects": {
+    "count_one": "{{count}} 件のプロジェクト",
     "count_other": "{{count}} 件のプロジェクト",
     "empty": "プロジェクトはまだありません。"
   },

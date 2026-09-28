@@ -1,0 +1,20 @@
+{
+  "name": "localize-infra-fixture-i18next",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Minimal i18next fixture used to test the Layersky continuous i18n vertical slice.",
+  "license": "MIT",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/index.js",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "i18next": "^25.6.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.10.2",
+    "typescript": "^5.7.2"
+  }
+}

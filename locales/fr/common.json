@@ -1,0 +1,25 @@
+{
+  "app": {
+    "title": "Tableau de bord Acme",
+    "tagline": "Tout ce que votre équipe livre, au même endroit."
+  },
+  "nav": {
+    "home": "Accueil",
+    "projects": "Projets",
+    "settings": "Paramètres"
+  },
+  "auth": {
+    "signIn": "Se connecter",
+    "signOut": "Se déconnecter",
+    "greeting": "Bon retour, {{name}} !"
+  },
+  "projects": {
+    "count_one": "{{count}} projet",
+    "count_other": "{{count}} projets",
+    "empty": "Aucun projet pour le moment."
+  },
+  "errors": {
+    "notFound": "Cette page est introuvable.",
+    "network": "Réseau indisponible. Veuillez réessayer."
+  }
+}

@@ -13,12 +13,15 @@ locales/es/common.json     target locale
 locales/de/common.json     target locale
 locales/ja/common.json     target locale
 locales/pt-BR/common.json  target locale (region-suffixed code)
+locales/ar/common.json     target locale (RTL, six plural forms)
 src/i18n.ts                i18next init (loads every catalog)
 src/index.ts               prints every key in every locale
 ```
 
-Covers nested keys, `{{name}}` interpolation and `_one` / `_other` plurals.
-Every locale carries the exact same key set.
+Covers nested keys, `{{name}}` interpolation and plurals. Non-plural keys are identical
+across every locale. Plural forms follow each locale's CLDR categories, so `ar` carries
+all six (`_zero` `_one` `_two` `_few` `_many` `_other`) while the others carry `_one` /
+`_other` — a missing form falls back to `en`, which is visible as an untranslated string.
 
 ## Run
 

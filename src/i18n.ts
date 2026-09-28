@@ -2,7 +2,7 @@ import { readFileSync } from "node:fs";
 import { resolve } from "node:path";
 import i18next, { type i18n } from "i18next";
 
-export const LOCALES = ["en", "fr", "es", "de"] as const;
+export const LOCALES = ["en", "fr", "es", "de", "ja"] as const;
 export type Locale = (typeof LOCALES)[number];
 
 export const DEFAULT_LOCALE: Locale = "en";

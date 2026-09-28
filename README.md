@@ -9,8 +9,9 @@ project to run against.
 ```
 locales/en/common.json   source locale
 locales/fr/common.json   target locale
-src/i18n.ts              i18next init (loads both catalogs)
-src/index.ts             prints every key in both locales
+locales/es/common.json   target locale
+src/i18n.ts              i18next init (loads every catalog)
+src/index.ts             prints every key in every locale
 ```
 
 Covers flat keys, nested keys, `{{name}}` interpolation and `_one` / `_other` plurals.

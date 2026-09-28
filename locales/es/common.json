@@ -1,0 +1,25 @@
+{
+  "app": {
+    "title": "Panel de Acme",
+    "tagline": "Todo lo que lanza tu equipo, en un solo lugar."
+  },
+  "nav": {
+    "home": "Inicio",
+    "projects": "Proyectos",
+    "settings": "Ajustes"
+  },
+  "auth": {
+    "signIn": "Iniciar sesión",
+    "signOut": "Cerrar sesión",
+    "greeting": "¡Bienvenido de nuevo, {{name}}!"
+  },
+  "projects": {
+    "count_one": "{{count}} proyecto",
+    "count_other": "{{count}} proyectos",
+    "empty": "Aún no hay proyectos."
+  },
+  "errors": {
+    "notFound": "No hemos encontrado esa página.",
+    "network": "Red no disponible. Inténtalo de nuevo."
+  }
+}

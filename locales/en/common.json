@@ -2,7 +2,8 @@
   "app": {
     "title": "Acme Dashboard",
     "tagline": "Everything your team ships, in one place.",
-    "continuousTest": "Continuous i18n test"
+    "continuousTest": "Continuous i18n test",
+    "continuousTestV2": "Continuous i18n test v2"
   },
   "nav": {
     "home": "Home",

@@ -21,5 +21,8 @@
   "errors": {
     "notFound": "We couldn't find that page.",
     "network": "Network unavailable. Please try again."
+  },
+  "notifications": {
+    "unread": "You have {{count}} unread messages"
   }
 }

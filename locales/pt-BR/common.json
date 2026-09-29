@@ -22,5 +22,8 @@
   "errors": {
     "notFound": "Não encontramos essa página.",
     "network": "Rede indisponível. Tente novamente."
+  },
+  "notifications": {
+    "unread": "Você tem {{count}} mensagens não lidas"
   }
 }

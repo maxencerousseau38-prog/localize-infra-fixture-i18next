@@ -21,5 +21,8 @@
   "errors": {
     "notFound": "Diese Seite konnte nicht gefunden werden.",
     "network": "Netzwerk nicht verfügbar. Bitte erneut versuchen."
+  },
+  "notifications": {
+    "unread": "Sie haben {{count}} ungelesene Nachrichten"
   }
 }

@@ -11,7 +11,7 @@
   "auth": {
     "signIn": "Se connecter",
     "signOut": "Se déconnecter",
-    "greeting": "Bon retour, {{name}} !"
+    "greeting": "Bon retour !"
   },
   "projects": {
     "count_one": "{{count}} projet",
@@ -22,5 +22,8 @@
   "errors": {
     "notFound": "Cette page est introuvable.",
     "network": "Réseau indisponible. Veuillez réessayer."
+  },
+  "notifications": {
+    "unread": "Vous avez des messages non lus"
   }
 }

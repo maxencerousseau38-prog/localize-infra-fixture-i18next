@@ -4,7 +4,8 @@
     "tagline": "Everything your team ships, in one place.",
     "continuousTest": "Continuous i18n test",
     "continuousTestV2": "Continuous i18n test v2",
-    "continuousTestV3": "Continuous i18n test v3"
+    "continuousTestV3": "Continuous i18n test v3",
+    "continuousTestV4": "Continuous i18n test v4"
   },
   "nav": {
     "home": "Home",

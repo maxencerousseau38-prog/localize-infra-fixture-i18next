@@ -21,6 +21,7 @@
   },
   "errors": {
     "notFound": "Não encontramos essa página.",
-    "network": "Rede indisponível. Tente novamente."
+    "network": "Rede indisponível. Tente novamente.",
+    "timeout": "A solicitação demorou muito. Por favor, tente novamente."
   }
 }

@@ -21,6 +21,7 @@
   },
   "errors": {
     "notFound": "No hemos encontrado esa página.",
-    "network": "Red no disponible. Inténtalo de nuevo."
+    "network": "Red no disponible. Inténtalo de nuevo.",
+    "timeout": "La solicitud tardó demasiado. Por favor, inténtalo de nuevo."
   }
 }

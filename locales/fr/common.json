@@ -21,6 +21,7 @@
   },
   "errors": {
     "notFound": "Cette page est introuvable.",
-    "network": "Réseau indisponible. Veuillez réessayer."
+    "network": "Réseau indisponible. Veuillez réessayer.",
+    "timeout": "La requête a pris trop de temps. Veuillez réessayer."
   }
 }

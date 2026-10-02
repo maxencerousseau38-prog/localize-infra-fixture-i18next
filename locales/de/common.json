@@ -20,7 +20,7 @@
   },
   "errors": {
     "notFound": "Diese Seite konnte nicht gefunden werden.",
-    "network": "Netzwerk nicht verfügbar. Bitte erneut versuchen.",
+    "network": "Netzwerk nicht verfügbar. Bitte versuchen Sie es erneut.",
     "timeout": "Die Anfrage hat zu lange gedauert. Bitte versuchen Sie es erneut."
   }
 }

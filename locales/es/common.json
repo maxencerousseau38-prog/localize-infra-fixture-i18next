@@ -1,7 +1,8 @@
 {
   "app": {
     "title": "Panel de Acme",
-    "tagline": "Todo lo que lanza tu equipo, en un solo lugar."
+    "tagline": "Todo lo que lanza tu equipo, en un solo lugar.",
+    "continuousTest": "Prueba continua de i18n"
   },
   "nav": {
     "home": "Inicio",

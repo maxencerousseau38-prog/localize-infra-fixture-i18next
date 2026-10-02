@@ -1,7 +1,8 @@
 {
   "app": {
     "title": "Acme ダッシュボード",
-    "tagline": "チームがリリースするすべてを、一か所に。"
+    "tagline": "チームがリリースするすべてを、一か所に。",
+    "continuousTest": "連続的なi18nテスト"
   },
   "nav": {
     "home": "ホーム",

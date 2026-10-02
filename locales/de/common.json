@@ -1,7 +1,8 @@
 {
   "app": {
     "title": "Acme Dashboard",
-    "tagline": "Alles, was euer Team ausliefert, an einem Ort."
+    "tagline": "Alles, was euer Team ausliefert, an einem Ort.",
+    "continuousTest": "Kontinuierlicher i18n-Test"
   },
   "nav": {
     "home": "Start",

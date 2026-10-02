@@ -22,6 +22,7 @@
   "errors": {
     "notFound": "Não encontramos essa página.",
     "network": "Rede indisponível. Tente novamente.",
-    "timeout": "A solicitação demorou muito. Por favor, tente novamente."
+    "timeout": "A solicitação demorou muito. Por favor, tente novamente.",
+    "unavailable": "Este serviço está temporariamente indisponível."
   }
 }

@@ -21,6 +21,7 @@
   "errors": {
     "notFound": "We couldn't find that page.",
     "network": "Network unavailable. Please try again.",
-    "timeout": "The request took too long. Please try again."
+    "timeout": "The request took too long. Please try again.",
+    "unavailable": "This service is temporarily unavailable."
   }
 }

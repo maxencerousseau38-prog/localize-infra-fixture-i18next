@@ -1,7 +1,7 @@
 {
   "app": {
     "title": "Acme Dashboard",
-    "tagline": "Alles, was euer Team ausliefert, an einem Ort."
+    "tagline": "Alles, was Ihr Team ausliefert, an einem Ort."
   },
   "nav": {
     "home": "Start",

@@ -1,7 +1,8 @@
 {
   "app": {
     "title": "Tableau de bord Acme",
-    "tagline": "Tout ce que votre équipe livre, au même endroit."
+    "tagline": "Tout ce que votre équipe livre, au même endroit.",
+    "continuousTest": "Test i18n continu"
   },
   "nav": {
     "home": "Accueil",
